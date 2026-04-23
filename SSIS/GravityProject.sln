@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "GravityProject", "GravityProject\GravityProject.dtproj", "{E04B85DA-35BE-EF6B-71EC-05B1E8B81062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E04B85DA-35BE-EF6B-71EC-05B1E8B81062}.Development|Default.ActiveCfg = Development
+		{E04B85DA-35BE-EF6B-71EC-05B1E8B81062}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB19916F-B010-4748-AAA7-DC4216492C8F}
+	EndGlobalSection
+EndGlobal
